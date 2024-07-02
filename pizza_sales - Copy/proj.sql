@@ -1,0 +1,1 @@
+ordersorder_detailsorder_detailsorderspizza_typesSELECT * FROM pizzahut.orders;
